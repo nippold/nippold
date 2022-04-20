@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nippold&count_private=true&show_icons=true&theme=merko&custom_title=Stats&border_color=91b302&border_radius=15">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nippold&layout=compact&theme=merko&border_color=91b302&border_radius=15">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nippold&theme=merko&border_color=91b302&border_radius=15">
 </p>
 
 <p align="center">
