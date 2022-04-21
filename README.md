@@ -26,8 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50px">
 </a>
 <a href="https://www.linux.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg#gh-dark-mode-only" width="50px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg#gh-light-mode-only" width="50px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50px">
 </a>
 </a>
 <a href="https://www.apache.org/">
