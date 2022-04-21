@@ -1,6 +1,10 @@
 <a href="https://github.com/nippold">
-  <img src="https://media.githubusercontent.com/media/nippold/nippold/main/images/github-header-image.png">
+  <img src="https://media.githubusercontent.com/media/nippold/nippold/main/images/github-header-image.png" width="100%">
 </a>
+
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="50px"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50px"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="50px"></code>
 
 <p align="left">
 <a href="https://github.com/nippold">
@@ -11,8 +15,10 @@
   </a>
 </p>
 
+<!--
 <p align="left">
 <a href="https://github.com/nippold">
   <img src="https://activity-graph.herokuapp.com/graph?username=nippold&bg_color=0a0f0b&color=68b587&line=475c0f&point=91b302&area_color=68b587&area=true">
 </a>
 </p>
+-->
