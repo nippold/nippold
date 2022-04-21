@@ -1,5 +1,5 @@
 <a href="https://github.com/nippold">
-  <img src="./images/github-header-image.png">
+  <img src="https://media.githubusercontent.com/media/nippold/nippold/main/images/github-header-image.png">
 </a>
 
 <p align="left">
