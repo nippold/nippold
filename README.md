@@ -1,5 +1,5 @@
 <a href="https://github.com/nippold#gh-dark-mode-only">
-  <img src="https://media.githubusercontent.com/media/nippold/nippold/main/images/github-header-image.png#gh-dark-mode-only" width="100%">
+  <img src="https://media.githubusercontent.com/media/nippold/nippold/main/images/github-dark-header-image.png#gh-dark-mode-only" width="100%">
 </a>
 <a href="https://github.com/nippold#gh-light-mode-only">
   <img src="https://media.githubusercontent.com/media/nippold/nippold/main/images/github-light-header-image.png#gh-light-mode-only" width="100%">
