@@ -1,5 +1,8 @@
-<a href="https://github.com/nippold">
-  <img src="https://media.githubusercontent.com/media/nippold/nippold/main/images/github-header-image.png" width="100%">
+<a href="https://github.com/nippold#gh-dark-mode-only">
+  <img src="https://media.githubusercontent.com/media/nippold/nippold/main/images/github-header-image.png#gh-dark-mode-only" width="100%">
+</a>
+<a href="https://github.com/nippold#gh-light-mode-only">
+  <img src="https://media.githubusercontent.com/media/nippold/nippold/main/images/github-light-header-image.png#gh-light-mode-only" width="100%">
 </a>
 
 <p align="left">
@@ -25,8 +28,11 @@
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50px">
 </a>
-<a href="https://www.linux.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50px">
+<a href="https://www.linux.org#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg#gh-dark-mode-only" width="50px">
+</a>
+<a href="https://www.linux.org#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg#gh-light-mode-only" width="50px">
 </a>
 </a>
 <a href="https://www.apache.org/">
@@ -46,11 +52,17 @@
 </p>
 
 <p align="left">
-<a href="https://github.com/nippold">
-    <img src="https://github-readme-stats.vercel.app/api?username=nippold&count_private=true&show_icons=true&theme=merko&custom_title=Stats&border_color=91b302&border_radius=15&line_height=27">
+  <a href="https://github.com/nippold#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=nippold&count_private=true&show_icons=true&theme=merko&custom_title=Stats&border_color=91b302&border_radius=15&line_height=27#gh-dark-mode-only">
   </a>
-  <a href="https://github.com/nippold">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nippold&theme=merko&border_color=91b302&border_radius=15&langs_count=3&hide=css">
+  <a href="https://github.com/nippold#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=nippold&count_private=true&show_icons=true&theme=vue&custom_title=Stats&border_color=91b302&border_radius=15&line_height=27#gh-light-mode-only">
+  </a>
+  <a href="https://github.com/nippold#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nippold&theme=merko&border_color=91b302&border_radius=15&langs_count=3&hide=css#gh-dark-mode-only">
+  </a>
+  <a href="https://github.com/nippold#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nippold&theme=vue&border_color=91b302&border_radius=15&langs_count=3&hide=css#gh-light-mode-only">
   </a>
 </p>
 
