@@ -48,21 +48,20 @@
 <a href="https://www.typo3.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typo3/typo3-original.svg" width="50px">
 </a>
-</a>
 </p>
 
 <p align="left">
   <a href="https://github.com/nippold#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=nippold&count_private=true&show_icons=true&theme=merko&custom_title=Stats&border_color=91b302&border_radius=15&line_height=27#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=nippold&count_private=true&show_icons=true&theme=merko&custom_title=Stats&border_color=91b302&border_radius=15&line_height=27&bg_color=0d1117&include_all_commits=true#gh-dark-mode-only">
   </a>
   <a href="https://github.com/nippold#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=nippold&count_private=true&show_icons=true&theme=vue&custom_title=Stats&border_color=91b302&border_radius=15&line_height=27#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=nippold&count_private=true&show_icons=true&theme=vue&custom_title=Stats&border_color=91b302&border_radius=15&line_height=27&bg_color=ffffff&include_all_commits=true#gh-light-mode-only">
   </a>
   <a href="https://github.com/nippold#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nippold&theme=merko&border_color=91b302&border_radius=15&langs_count=3&hide=css#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nippold&theme=merko&border_color=91b302&border_radius=15&langs_count=3&bg_color=0d1117&hide=css#gh-dark-mode-only">
   </a>
   <a href="https://github.com/nippold#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nippold&theme=vue&border_color=91b302&border_radius=15&langs_count=3&hide=css#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nippold&theme=vue&border_color=91b302&border_radius=15&langs_count=3&bg_color=ffffff&hide=css#gh-light-mode-only">
   </a>
 </p>
 
