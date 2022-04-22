@@ -1,3 +1,12 @@
+<div align="right">
+<a href="https://github.com/nippold#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/You%27re%20viewing%20this%20readme%20in-dark%20mode-3d3d3d.svg?&style=flat&labelColor=91b302#gh-dark-mode-only">
+</a>
+<a href="https://github.com/nippold#gh-light-mode-only">
+  <img src="https://img.shields.io/badge/You%27re%20viewing%20this%20readme%20in-light%20mode-fcfcfc.svg?&style=flat&labelColor=bd0042#gh-light-mode-only">
+</a>
+</div>
+
 <a href="https://github.com/nippold#gh-dark-mode-only">
   <img src="https://media.githubusercontent.com/media/nippold/nippold/main/images/github-dark-header-image.png#gh-dark-mode-only" width="100%">
 </a>
