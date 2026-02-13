@@ -93,20 +93,6 @@
   <a href="https://twitter.com/nippold#gh-dark-mode-only" target="_blank">
     <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white#gh-dark-mode-only" alt="twitter">
   </a>
-  </a>
-  <a href="https://discordapp.com/users/346764969842442242#gh-light-mode-only" target="_blank">
-    <img src="https://img.shields.io/badge/discord-23272A.svg?&style=for-the-badge&logo=discord&logoColor=white#gh-light-mode-only" alt="discord">
-  </a>
-  <a href="https://discordapp.com/users/346764969842442242#gh-dark-mode-only" target="_blank">
-    <img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white#gh-dark-mode-only" alt="discord">
-  </a>
-  </a>
-  <a href="nippold.eth#gh-light-mode-only" target="_blank">
-    <img src="https://img.shields.io/badge/nippold.eth-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white&labelColor=3c3c3d&color=616163#gh-light-mode-only" alt="ethereum">
-  </a>
-  <a href="nippold.eth#gh-dark-mode-only" target="_blank">
-    <img src="https://img.shields.io/badge/nippold.eth-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=black&labelColor=c3c3c7&color=ffffff#gh-dark-mode-only" alt="ethereum">
-  </a>
   <br>
   <a href="https://keybase.io/nippold/pgp_keys.asc#gh-light-mode-only" target="_blank">
     <img src="https://img.shields.io/keybase/pgp/nippold?style=for-the-badge#gh-light-mode-only" alt="gpg">
@@ -136,12 +122,6 @@
 </div>
 
 <br><br>
-
-<sub>
-This readme ist <a href="README.md.asc">GPG signed</a>.
-
-This readme ist dark/light mode optimized.
-</sub>
 
 <!--
 <p align="left">
